@@ -1,0 +1,6 @@
+BASE_URL = "http://localhost:5000"
+LOGIN_URL = f"{BASE_URL}/login"
+ADMIN_USERNAME = "admin"
+ADMIN_PASSWORD = "password"
+DEFAULT_TIMEOUT = 10
+INVALID_PLATE_DATA = "12345678"
